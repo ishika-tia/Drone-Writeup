@@ -6,3 +6,4 @@
 ## Contributors
 
 ISHIKA BANERJEE [@ishika-tia](https://github.com/ishika-tia)
+SIMRAN SHARMA [@simrannn30](https://github.com/simrannn30)
